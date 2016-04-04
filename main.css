@@ -1,0 +1,277 @@
+*{
+text-align: justify;
+text-justify: inter-word;
+margin:0px;
+padding:0px;
+color:blue;
+font-size: 100%;
+ font-family: "Open Sans", sans-serif;
+text-shadow: 2px 2px 5px green;
+
+}
+
+#thefooter{
+clear:both;
+text-align:center;
+border-top: 2px solid green;
+padding:20px;
+background: url("image2.jpg") no-repeat center center fixed; 
+}
+
+h1{
+ font-family: "Open Sans", sans-serif;
+color:yellow;font-size: 100%;
+text-shadow: 2px 2px 5px blue;
+}
+
+h2{font-size: 100%;
+ font-family: "Open Sans", sans-serif;
+color:green;
+}
+
+header,section,footer,aside,nav,article,hgroup{display:block;}
+//background-color: #a9c056;
+body{text-align:center;}
+
+form{
+text-align:left;
+color:blue;font-size: 100%;
+ font-family: "Open Sans", sans-serif;
+text-shadow: 2px 2px 5px yellow;
+}
+
+
+a:link {
+color:yellow; 
+text-shadow: none;
+text-decoration: none;
+}
+
+a:active {
+color:yellow; 
+text-shadow:none;
+text-decoration: none;
+}
+
+
+a:hover{
+color:yellow; 
+text-shadow:none;
+text-decoration:none;
+
+}
+
+label:hover{
+color:yellow; 
+text-shadow: 2px 2px 5px yellow;
+text-decoration:none;
+background-color:blue;
+}
+
+a[name^="ma"]{
+font-size: 100%; font-family: "Open Sans", sans-serif;
+text-shadow: 2px 2px 5px yellow;
+}
+
+#div1{
+border:1px transparent;
+max-width:1500px;
+
+text-align:left;
+
+background: url("image6.jpg") no-repeat center center fixed; 
+background-size:cover;
+}
+
+li[name^="da"]{
+color:yellow;
+text-shadow: 2px 2px 5px blue;
+}
+
+li[id^="li"]{color:#9D26E3; 
+text-shadow:2px 2px 5px #29C0DF;
+}
+
+#topheader{
+color:yellow;
+text-align:left;
+padding:20px;
+background: url("image2.jpg") no-repeat center center fixed; 
+}
+
+#topmenu{
+background: url("image2.jpg") no-repeat center center fixed;
+}
+
+#foodmenu{background: url("image6.jpg") no-repeat center center fixed;}
+
+#tfoodmenu{background: url("image6.jpg") no-repeat center center fixed;}
+
+#foodmenu li{
+color:yellow;
+text-align:left;
+list-style:none;
+font:bold 15px Tahoma;
+}
+
+#topmenu li{
+text-align:left;
+list-style:none;
+font:bold 15px Tahoma;
+}
+
+section{
+border: 5px;
+border-image: url(border.png) 30 round;
+width:1095px;
+float:left;
+}
+
+#menusection{
+border: 5px;
+border-image: url(border.png) 30 round;
+width:965px;
+float:left;
+ }
+
+#loginsection{
+width:750px;
+height:400px;
+    }
+    
+ #aboutsection{
+     width:1340px;   
+ 
+ }
+
+
+div[id^="m"]{
+border:5px;
+
+width:210px;
+height:260px;
+margin:10px;
+color:blue;
+
+}
+
+#history{
+    background-color:yellow;
+    width:1000px;
+    height:800px;
+    
+    
+    
+    
+}
+
+
+aside[id^="as"]{
+float:left;
+width:250px;
+border:5px;
+padding: 5px;
+border-image: url(border.png) 30 round;
+background: url("image6.jpg") no-repeat center center fixed;
+background-size: cover;
+}
+
+aside[id^="lo"]{
+height:400px;
+float:left;
+width:599px;
+padding:1px;
+border-image: url(border.png) 30 round;
+background: url("image6.jpg") no-repeat center center fixed;
+background-size: cover;
+}
+
+aside{
+float:left;
+width:250px;
+margin: 15px 0x;
+border:5px;
+padding: 15px;
+border-image: url(border.png) 30 round;
+background: url("image6.jpg") no-repeat center center fixed;
+background-size: cover;
+}
+
+#billaside{
+float:left;
+width:350px;
+margin: 15px 0x;
+border:5px;
+padding: 15px;
+border-image: url(border.png) 30 round;
+background: url("image6.jpg") no-repeat center center fixed;
+background-size: cover;
+}   
+
+#itemaside{
+   float:left;
+width:350px;
+margin: 15px 0x;
+border:5px;
+padding: 15px;
+border-image: url(border.png) 30 round;
+background: url("image6.jpg") no-repeat center center fixed;
+background-size: cover; 
+    
+    
+    
+    
+}
+    
+#thefooter{
+clear:both;
+text-align:center;
+border-top: 2px solid green;
+padding:20px;
+background: url("image2.jpg") no-repeat center center fixed; 
+}
+
+p{
+color:blue;
+font-size: 100%;
+font-family: "Open Sans", sans-serif;
+text-shadow: 2px 2px 5px yellow;
+}
+
+
+p[id^='au']{
+
+color:#9566B9;
+font-size: 100%;
+font-family: "Open Sans", sans-serif;
+text-shadow: 2px 2px 5px yellowm; 
+    
+    
+}
+article{
+padding:20px;
+margin-top:5px;
+border:10px transparent;
+background: url("image6.jpg") no-repeat center center fixed; 
+background-size: cover;
+}
+
+article footer{
+text-align:right;
+color:blue;
+font-size: 100%;
+font-family: "Open Sans", sans-serif;
+}
+
+#food{
+border:1px transparent;
+max-width:1000px;
+margin:20px auto;
+text-align:left;
+border-image: url(border.png) 30 round;
+background: url("image6.jpg") no-repeat center center fixed; 
+background-size:cover;
+}
+
+
+

@@ -1,0 +1,495 @@
+$(document).ready(function(){
+	
+$("#aftersection").hide();	
+$("#formsection").hide();	
+$("#kind").show();
+$("#table0").show();
+$("#table1").hide();
+$("#table2").hide();
+$("#table3").hide();
+$("#table4").hide();
+$("#table5").hide();
+$("#tandoorh").hide();
+$("#chineseh").hide();
+$("#mainh").show();
+$("#vegh").hide();
+$("#nvegh").hide();
+$("#conh").hide();
+$("#buy").show();
+$("#delo").hide();
+$("#h11").show();
+$("#h21").hide();
+$("#li0").show();
+$('#ma6').hide();
+
+$('#pb1').show();
+$('#pb2').hide();
+$('#pb3').hide();
+
+
+
+$("#li1").hide();
+$("#li2").hide();
+$("#li3").hide();
+$("#li4").hide();
+$("#li5").hide();
+$("#li6").hide();
+$("#li7").hide();
+$("#li8").hide();
+$("#li9").hide();
+$("#li10").hide();
+$("#li11").hide();
+$("#li12").hide();
+$("#li13").hide();
+$("#li14").hide();
+$("#li15").hide();
+$("#li16").hide();
+$("#li17").hide();
+$("#li18").hide();
+$("#li19").hide();
+$("#li20").hide();
+$("#li21").hide();
+$("#li22").hide();
+$("#li23").hide();
+$("#li24").hide();
+$("#li25").hide();
+$("#li26").hide();
+$("#li27").hide();
+$("#li28").hide();
+$("#li29").hide();
+$("#li30").hide();
+$("#li31").hide();
+$("#li32").hide();
+$("#li33").hide();
+$("#li34").hide();
+$("#li35").hide();
+$("#li36").hide();
+$("#li37").hide();
+$("#li38").hide();
+$("#li39").hide();
+$("#li40").hide();
+$("#li41").hide();
+$("#li42").hide();
+$("#li43").hide();
+$("#li44").hide();
+$("#li45").hide();
+$("#li46").hide();
+$("#li47").hide();
+$("#li48").hide();
+$("#li49").hide();
+$("#li50").hide();
+$("#li51").hide();
+$("#li52").hide();
+$("#li53").hide();
+$("#li54").hide();
+$("#li55").hide();
+$("#li56").hide();
+$("#li57").hide();
+$("#li58").hide();
+$("#li59").hide();
+
+$("#fr1").hide();
+$("#fr2").hide();
+$("#fr3").hide();
+$("#fr4").hide();
+$("#fr5").hide();
+$("#fr6").hide();
+$("#fr7").hide();
+$("#fr8").hide();
+$("#fr9").hide();
+$("#fr10").hide();
+$("#fr11").hide();
+$("#fr12").hide();
+$("#fr13").hide();
+$("#fr14").hide();
+$("#fr15").hide();
+$("#fr16").hide();
+$("#fr17").hide();
+$("#fr18").hide();
+$("#fr19").hide();
+$("#fr20").hide();
+$("#fr21").hide();
+$("#fr22").hide();
+$("#fr23").hide();
+$("#fr24").hide();
+$("#fr25").hide();
+$("#fr26").hide();
+$("#fr27").hide();
+$("#fr28").hide();
+$("#fr29").hide();
+$("#fr30").hide();
+$("#fr31").hide();
+$("#fr32").hide();
+$("#fr33").hide();
+$("#fr34").hide();
+$("#fr35").hide();
+$("#fr36").hide();
+$("#fr37").hide();
+$("#fr38").hide();
+$("#fr39").hide();
+$("#fr40").hide();
+$("#fr41").hide();
+$("#fr42").hide();
+$("#fr43").hide();
+$("#fr44").hide();
+$("#fr45").hide();
+$("#fr46").hide();
+$("#fr47").hide();
+$("#fr48").hide();
+$("#fr49").hide();
+$("#fr50").hide();
+$("#fr51").hide();
+$("#fr52").hide();
+$("#fr53").hide();
+$("#fr54").hide();
+$("#fr55").hide();
+$("#fr56").hide();
+$("#fr57").hide();
+$("#fr58").hide();
+$("#fr59").hide();
+
+
+$("#fa1").show();
+$("#fa2").show();
+$("#fa3").show();
+$("#fa4").show();
+$("#fa5").show();
+$("#fa6").show();
+$("#fa7").show();
+$("#fa8").show();
+$("#fa9").show();
+$("#fa10").show();
+$("#fa11").show();
+$("#fa12").show();
+$("#fa13").show();
+$("#fa14").show();
+$("#fa15").show();
+$("#fa16").show();
+$("#fa17").show();
+$("#fa18").show();
+$("#fa19").show();
+$("#fa20").show();
+$("#fa21").show();
+$("#fa22").show();
+$("#fa23").show();
+$("#fa24").show();
+$("#fa25").show();
+$("#fa26").show();
+$("#fa27").show();
+$("#fa28").show();
+$("#fa29").show();
+$("#fa30").show();
+$("#fa31").show();
+$("#fa32").show();
+$("#fa33").show();
+$("#fa34").show();
+$("#fa35").show();
+$("#fa36").show();
+$("#fa37").show();
+$("#fa38").show();
+$("#fa39").show();
+$("#fa40").show();
+$("#fa41").show();
+$("#fa42").show();
+$("#fa43").show();
+$("#fa44").show();
+$("#fa45").show();
+$("#fa46").show();
+$("#fa47").show();
+$("#fa48").show();
+$("#fa49").show();
+$("#fa50").show();
+$("#fa51").show();
+$("#fa52").show();
+$("#fa53").show();
+$("#fa54").show();
+$("#fa55").show();
+$("#fa56").show();
+$("#fa57").show();
+$("#fa58").show();
+$("#fa59").show();
+
+
+
+$("#fa1").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa1").hide();$("#fr1").show();$("#li0").hide();$("#li1").show();e.preventDefault();});
+$("#fa2").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa2").hide();$("#fr2").show();$("#li0").hide();$("#li2").show();e.preventDefault();});
+$("#fa3").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa3").hide();$("#fr3").show();$("#li0").hide();$("#li3").show();e.preventDefault();});
+$("#fa4").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa4").hide();$("#fr4").show();$("#li0").hide();$("#li4").show();e.preventDefault();});
+$("#fa5").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa5").hide();$("#fr5").show();$("#li0").hide();$("#li5").show();e.preventDefault();});
+$("#fa6").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa6").hide();$("#fr6").show();$("#li0").hide();$("#li6").show();e.preventDefault();});
+$("#fa7").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa7").hide();$("#fr7").show();$("#li0").hide();$("#li7").show();e.preventDefault();});
+$("#fa8").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa8").hide();$("#fr8").show();$("#li0").hide();$("#li8").show();e.preventDefault();});
+$("#fa9").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa9").hide();$("#fr9").show();$("#li0").hide();$("#li9").show();e.preventDefault();});
+$("#fa10").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa10").hide();$("#fr10").show();$("#li0").hide();$("#li10").show();e.preventDefault();});
+$("#fa11").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa11").hide();$("#fr11").show();$("#li0").hide();$("#li11").show();e.preventDefault();});
+$("#fa12").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa12").hide();$("#fr12").show();$("#li0").hide();$("#li12").show();e.preventDefault();});
+$("#fa13").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa13").hide();$("#fr13").show();$("#li0").hide();$("#li13").show();e.preventDefault();});
+$("#fa14").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa14").hide();$("#fr14").show();$("#li0").hide();$("#li14").show();e.preventDefault();});
+$("#fa15").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa15").hide();$("#fr15").show();$("#li0").hide();$("#li15").show();e.preventDefault();});
+$("#fa16").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa16").hide();$("#fr16").show();$("#li0").hide();$("#li16").show();e.preventDefault();});
+$("#fa17").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa17").hide();$("#fr17").show();$("#li0").hide();$("#li17").show();e.preventDefault();});
+$("#fa18").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa18").hide();$("#fr18").show();$("#li0").hide();$("#li18").show();e.preventDefault();});
+$("#fa19").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa19").hide();$("#fr19").show();$("#li0").hide();$("#li19").show();e.preventDefault();});
+$("#fa20").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa20").hide();$("#fr20").show();$("#li0").hide();$("#li20").show();e.preventDefault();});
+$("#fa21").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa21").hide();$("#fr21").show();$("#li0").hide();$("#li21").show();e.preventDefault();});
+$("#fa22").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa22").hide();$("#fr22").show();$("#li0").hide();$("#li22").show();e.preventDefault();});
+$("#fa23").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa23").hide();$("#fr23").show();$("#li0").hide();$("#li23").show();e.preventDefault();});
+$("#fa24").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa24").hide();$("#fr24").show();$("#li0").hide();$("#li24").show();e.preventDefault();});
+$("#fa25").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa25").hide();$("#fr25").show();$("#li0").hide();$("#li25").show();e.preventDefault();});
+$("#fa26").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa26").hide();$("#fr26").show();$("#li0").hide();$("#li26").show();e.preventDefault();});
+$("#fa27").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa27").hide();$("#fr27").show();$("#li0").hide();$("#li27").show();e.preventDefault();});
+$("#fa28").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa28").hide();$("#fr28").show();$("#li0").hide();$("#li28").show();e.preventDefault();});
+$("#fa29").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa29").hide();$("#fr29").show();$("#li0").hide();$("#li29").show();e.preventDefault();});
+$("#fa30").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa30").hide();$("#fr30").show();$("#li0").hide();$("#li30").show();e.preventDefault();});
+$("#fa31").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa31").hide();$("#fr31").show();$("#li0").hide();$("#li31").show();e.preventDefault();});
+$("#fa32").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa32").hide();$("#fr32").show();$("#li0").hide();$("#li32").show();e.preventDefault();});
+$("#fa33").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa33").hide();$("#fr33").show();$("#li0").hide();$("#li33").show();e.preventDefault();});
+$("#fa34").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa34").hide();$("#fr34").show();$("#li0").hide();$("#li34").show();e.preventDefault();});
+$("#fa35").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa35").hide();$("#fr35").show();$("#li0").hide();$("#li35").show();e.preventDefault();});
+$("#fa36").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa36").hide();$("#fr36").show();$("#li0").hide();$("#li36").show();e.preventDefault();});
+$("#fa37").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa37").hide();$("#fr37").show();$("#li0").hide();$("#li37").show();e.preventDefault();});
+$("#fa38").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa38").hide();$("#fr38").show();$("#li0").hide();$("#li38").show();e.preventDefault();});
+$("#fa39").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa39").hide();$("#fr39").show();$("#li0").hide();$("#li39").show();e.preventDefault();});
+$("#fa40").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa40").hide();$("#fr40").show();$("#li0").hide();$("#li40").show();e.preventDefault();});
+$("#fa41").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa41").hide();$("#fr41").show();$("#li0").hide();$("#li41").show();e.preventDefault();});
+$("#fa42").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa42").hide();$("#fr42").show();$("#li0").hide();$("#li42").show();e.preventDefault();});
+$("#fa43").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa43").hide();$("#fr43").show();$("#li0").hide();$("#li43").show();e.preventDefault();});
+$("#fa44").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa44").hide();$("#fr44").show();$("#li0").hide();$("#li44").show();e.preventDefault();});
+$("#fa45").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa45").hide();$("#fr45").show();$("#li0").hide();$("#li45").show();e.preventDefault();});
+$("#fa46").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa46").hide();$("#fr46").show();$("#li0").hide();$("#li46").show();e.preventDefault();});
+$("#fa47").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa47").hide();$("#fr47").show();$("#li0").hide();$("#li47").show();e.preventDefault();});
+$("#fa48").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa48").hide();$("#fr48").show();$("#li0").hide();$("#li48").show();e.preventDefault();});
+$("#fa49").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa49").hide();$("#fr49").show();$("#li0").hide();$("#li49").show();e.preventDefault();});
+$("#fa50").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa50").hide();$("#fr50").show();$("#li0").hide();$("#li50").show();e.preventDefault();});
+$("#fa51").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa51").hide();$("#fr51").show();$("#li0").hide();$("#li51").show();e.preventDefault();});
+$("#fa52").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa52").hide();$("#fr52").show();$("#li0").hide();$("#li52").show();e.preventDefault();});
+$("#fa53").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa53").hide();$("#fr53").show();$("#li0").hide();$("#li53").show();e.preventDefault();});
+$("#fa54").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa54").hide();$("#fr54").show();$("#li0").hide();$("#li54").show();e.preventDefault();});
+$("#fa55").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa55").hide();$("#fr55").show();$("#li0").hide();$("#li55").show();e.preventDefault();});
+$("#fa56").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa56").hide();$("#fr56").show();$("#li0").hide();$("#li56").show();e.preventDefault();});
+$("#fa57").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa57").hide();$("#fr57").show();$("#li0").hide();$("#li57").show();e.preventDefault();});
+$("#fa58").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa58").hide();$("#fr58").show();$("#li0").hide();$("#li58").show();e.preventDefault();});
+$("#fa59").click(function(e){$('#pb1').hide();$('#pb2').show();$("#fa59").hide();$("#fr59").show();$("#li0").hide();$("#li59").show();e.preventDefault();});
+
+
+
+
+$("#fr1").click(function(e){$("#fa1").show();$("#fr1").hide();$("#li1").hide();e.preventDefault();});
+$("#fr2").click(function(e){$("#fa2").show();$("#fr2").hide();$("#li2").hide();e.preventDefault();});
+$("#fr3").click(function(e){$("#fa3").show();$("#fr3").hide();$("#li3").hide();e.preventDefault();});
+$("#fr4").click(function(e){$("#fa4").show();$("#fr4").hide();$("#li4").hide();e.preventDefault();});
+$("#fr5").click(function(e){$("#fa5").show();$("#fr5").hide();$("#li5").hide();e.preventDefault();});
+$("#fr6").click(function(e){$("#fa6").show();$("#fr6").hide();$("#li6").hide();e.preventDefault();});
+$("#fr7").click(function(e){$("#fa7").show();$("#fr7").hide();$("#li7").hide();e.preventDefault();});
+$("#fr8").click(function(e){$("#fa8").show();$("#fr8").hide();$("#li8").hide();e.preventDefault();});
+$("#fr9").click(function(e){$("#fa9").show();$("#fr9").hide();$("#li9").hide();e.preventDefault();});
+$("#fr10").click(function(e){$("#fa10").show();$("#fr10").hide();$("#li10").hide();e.preventDefault();});
+$("#fr11").click(function(e){$("#fa11").show();$("#fr11").hide();$("#li11").hide();e.preventDefault();});
+$("#fr12").click(function(e){$("#fa12").show();$("#fr12").hide();$("#li12").hide();e.preventDefault();});
+$("#fr13").click(function(e){$("#fa13").show();$("#fr13").hide();$("#li13").hide();e.preventDefault();});
+$("#fr14").click(function(e){$("#fa14").show();$("#fr14").hide();$("#li14").hide();e.preventDefault();});
+$("#fr15").click(function(e){$("#fa15").show();$("#fr15").hide();$("#li15").hide();e.preventDefault();});
+$("#fr16").click(function(e){$("#fa16").show();$("#fr16").hide();$("#li16").hide();e.preventDefault();});
+$("#fr17").click(function(e){$("#fa17").show();$("#fr17").hide();$("#li17").hide();e.preventDefault();});
+$("#fr18").click(function(e){$("#fa18").show();$("#fr18").hide();$("#li18").hide();e.preventDefault();});
+$("#fr19").click(function(e){$("#fa19").show();$("#fr19").hide();$("#li19").hide();e.preventDefault();});
+$("#fr20").click(function(e){$("#fa20").show();$("#fr20").hide();$("#li20").hide();e.preventDefault();});
+$("#fr21").click(function(e){$("#fa21").show();$("#fr21").hide();$("#li21").hide();e.preventDefault();});
+$("#fr22").click(function(e){$("#fa22").show();$("#fr22").hide();$("#li22").hide();e.preventDefault();});
+$("#fr23").click(function(e){$("#fa23").show();$("#fr23").hide();$("#li23").hide();e.preventDefault();});
+$("#fr24").click(function(e){$("#fa24").show();$("#fr24").hide();$("#li24").hide();e.preventDefault();});
+$("#fr25").click(function(e){$("#fa25").show();$("#fr25").hide();$("#li25").hide();e.preventDefault();});
+$("#fr26").click(function(e){$("#fa26").show();$("#fr26").hide();$("#li26").hide();e.preventDefault();});
+$("#fr27").click(function(e){$("#fa27").show();$("#fr27").hide();$("#li27").hide();e.preventDefault();});
+$("#fr28").click(function(e){$("#fa28").show();$("#fr28").hide();$("#li28").hide();e.preventDefault();});
+$("#fr29").click(function(e){$("#fa29").show();$("#fr29").hide();$("#li29").hide();e.preventDefault();});
+$("#fr30").click(function(e){$("#fa30").show();$("#fr30").hide();$("#li30").hide();e.preventDefault();});
+$("#fr31").click(function(e){$("#fa31").show();$("#fr31").hide();$("#li31").hide();e.preventDefault();});
+$("#fr32").click(function(e){$("#fa32").show();$("#fr32").hide();$("#li32").hide();e.preventDefault();});
+$("#fr33").click(function(e){$("#fa33").show();$("#fr33").hide();$("#li33").hide();e.preventDefault();});
+$("#fr34").click(function(e){$("#fa34").show();$("#fr34").hide();$("#li34").hide();e.preventDefault();});
+$("#fr35").click(function(e){$("#fa35").show();$("#fr35").hide();$("#li35").hide();e.preventDefault();});
+$("#fr36").click(function(e){$("#fa36").show();$("#fr36").hide();$("#li36").hide();e.preventDefault();});
+$("#fr37").click(function(e){$("#fa37").show();$("#fr37").hide();$("#li37").hide();e.preventDefault();});
+$("#fr38").click(function(e){$("#fa38").show();$("#fr38").hide();$("#li38").hide();e.preventDefault();});
+$("#fr39").click(function(e){$("#fa39").show();$("#fr39").hide();$("#li39").hide();e.preventDefault();});
+$("#fr40").click(function(e){$("#fa40").show();$("#fr40").hide();$("#li40").hide();e.preventDefault();});
+$("#fr41").click(function(e){$("#fa41").show();$("#fr41").hide();$("#li41").hide();e.preventDefault();});
+$("#fr42").click(function(e){$("#fa42").show();$("#fr42").hide();$("#li42").hide();e.preventDefault();});
+$("#fr43").click(function(e){$("#fa43").show();$("#fr43").hide();$("#li43").hide();e.preventDefault();});
+$("#fr44").click(function(e){$("#fa44").show();$("#fr44").hide();$("#li44").hide();e.preventDefault();});
+$("#fr45").click(function(e){$("#fa45").show();$("#fr45").hide();$("#li45").hide();e.preventDefault();});
+$("#fr46").click(function(e){$("#fa46").show();$("#fr46").hide();$("#li46").hide();e.preventDefault();});
+$("#fr47").click(function(e){$("#fa47").show();$("#fr47").hide();$("#li47").hide();e.preventDefault();});
+$("#fr48").click(function(e){$("#fa48").show();$("#fr48").hide();$("#li48").hide();e.preventDefault();});
+$("#fr49").click(function(e){$("#fa49").show();$("#fr49").hide();$("#li49").hide();e.preventDefault();});
+$("#fr50").click(function(e){$("#fa50").show();$("#fr50").hide();$("#li50").hide();e.preventDefault();});
+$("#fr51").click(function(e){$("#fa51").show();$("#fr51").hide();$("#li51").hide();e.preventDefault();});
+$("#fr52").click(function(e){$("#fa52").show();$("#fr52").hide();$("#li52").hide();e.preventDefault();});
+$("#fr53").click(function(e){$("#fa53").show();$("#fr53").hide();$("#li53").hide();e.preventDefault();});
+$("#fr54").click(function(e){$("#fa54").show();$("#fr54").hide();$("#li54").hide();e.preventDefault();});
+$("#fr55").click(function(e){$("#fa55").show();$("#fr55").hide();$("#li55").hide();e.preventDefault();});
+$("#fr56").click(function(e){$("#fa56").show();$("#fr56").hide();$("#li56").hide();e.preventDefault();});
+$("#fr57").click(function(e){$("#fa57").show();$("#fr57").hide();$("#li57").hide();e.preventDefault();});
+$("#fr58").click(function(e){$("#fa58").show();$("#fr58").hide();$("#li58").hide();e.preventDefault();});
+$("#fr59").click(function(e){$("#fa59").show();$("#fr59").hide();$("#li59").hide();e.preventDefault();});
+
+
+
+
+
+$("#tandoor").click(function(e){
+    $("#table0").hide();
+    $("#table2").hide();
+    $("#table1").show();
+	$("#table3").hide();
+	$("#table4").hide();
+	$("#table5").hide();
+	$("#nvegh").hide();
+	$("#vegh").hide();
+	$("#tandoorh").show();
+	$("#chineseh").hide();
+	$("#mainh").hide();
+	$("#conh").hide();
+	e.preventDefault();
+    });
+	
+$("#chinese").click(function(e){
+    $("#table0").hide();
+    $("#table1").hide();
+    $("#table2").show();
+	$("#table3").hide();
+	$("#table4").hide();
+	$("#table5").hide();
+	$("#tandoorh").hide();
+	$("#chineseh").show();
+	$("#vegh").hide();
+	$("#nvegh").hide();
+	$("#conh").hide();
+	$("#mainh").hide();
+	e.preventDefault();
+	});
+	
+$("#vegetarian").click(function(e){
+    $("#table0").hide();
+    $("#table1").hide();
+	$("#table2").hide();
+	$("#table3").show();
+	$("#table4").hide();
+	$("#table5").hide();
+	$("#tandoorh").hide();
+	$("#chineseh").hide();
+	$("#vegh").show();
+	$("#nvegh").hide();
+	$("#conh").hide();
+	$("#mainh").hide();
+	e.preventDefault();
+    });
+	
+$("#nvegetarian").click(function(e){
+    $("#table0").hide();
+    $("#table1").hide();
+	$("#table2").hide();
+	$("#table3").hide();
+	$("#table4").show();
+	$("#table5").hide();
+	$("#tandoorh").hide();
+	$("#chineseh").hide();
+	$("#vegh").hide();
+	$("#nvegh").show();
+	$("#conh").hide();
+	$("#mainh").hide();
+	e.preventDefault();
+    });
+
+$("#newarrival").click(function(e){
+    $("#table0").show();
+    $("#table1").hide();
+	$("#table2").hide();
+	$("#table3").hide();
+	$("#table4").hide();
+	$("#table5").hide();
+	$("#tandoorh").hide();
+	$("#chineseh").hide();
+	$("#vegh").hide();
+	$("#nvegh").hide();
+	$("#conh").hide();
+	$("#mainh").show();
+	e.preventDefault();
+    });
+
+$("#continental").click(function(e){
+    $("#table0").hide();
+    $("#table1").hide();
+	$("#table2").hide();
+	$("#table3").hide();
+	$("#table4").hide();
+	$("#table5").show();
+	$("#tandoorh").hide();
+	$("#chineseh").hide();
+	$("#vegh").hide();
+	$("#nvegh").hide();
+	$("#conh").show();
+	$("#mainh").hide();
+	e.preventDefault();
+    });
+	
+	
+$("#buy").click(function(e){
+            $('#ma0').hide();
+            $('#ma1').hide();
+            $('#ma2').hide();
+            $('#ma3').hide();
+            $('#ma4').hide();
+            $('#ma5').hide();
+            $('#ma6').show();
+            $('#pb3').show();
+	    $("#foodmenu").show();
+	    $("#h11").hide();
+             $("#h21").show();
+	    $("#delo").show();
+		e.preventDefault();
+		$("#menusection").hide();
+		$("#formsection").show();
+		$("#buy").hide();
+		});
+		
+$("#delo").click(function(e){
+    
+             $('#ma0').show();
+             $('#ma1').show();
+             $('#ma2').show();
+             $('#ma3').show();
+             $('#ma4').show();
+             $('#ma5').show();
+             $('#ma6').hide();
+             $('#tfoodmenu').hide();
+	     $("#foodmenu").show();
+	     $("#h21").hide();
+             $("#h11").show();
+	     $("#delo").hide();
+		e.preventDefault();
+		$("#menusection").show();
+		$("#formsection").hide();
+		$("#buy").show();
+		});
+		
+
+   
+$("#ao").click(function(e){
+    alert("Order Added! Thank You for Shopping!");
+    
+     });
+
+
+
+
+});
+	
+	
+	
+	
+	
+	
+
+	
